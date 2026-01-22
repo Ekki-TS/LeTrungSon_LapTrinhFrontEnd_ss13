@@ -16,7 +16,6 @@ body {
   padding: 0 16px;
 }
 
-/* ===== NAVBAR ===== */
 .navbar {
   background: #1f232a;
   color: #fff;
@@ -49,7 +48,6 @@ body {
   opacity: 1;
 }
 
-/* menu mobile */
 .menu-btn {
   display: none;
   border: none;
@@ -78,7 +76,6 @@ body {
   display: flex;
 }
 
-/* ===== HERO ===== */
 .hero {
   background: #1677ff;
   padding: 35px 0;
@@ -113,7 +110,6 @@ body {
   opacity: 0.95;
 }
 
-/* ===== FEATURES ===== */
 .features {
   padding: 24px 16px;
   display: grid;
@@ -146,7 +142,6 @@ body {
   line-height: 1.4;
 }
 
-/* ===== REGISTER FORM ===== */
 .register {
   padding: 18px 16px 28px;
   text-align: center;
@@ -195,7 +190,6 @@ body {
   opacity: 0.95;
 }
 
-/* ===== FOOTER ===== */
 .footer {
   background: #1f232a;
   color: #fff;
@@ -205,7 +199,6 @@ body {
   opacity: 0.9;
 }
 
-/* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   .nav {
     display: none;
